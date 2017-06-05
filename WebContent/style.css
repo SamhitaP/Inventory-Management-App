@@ -1,0 +1,22 @@
+.buttons{
+	text-align:center;
+}
+
+.btn1{
+	position:obsolute;
+	top:50%;
+	bottom: 50%;
+}
+.btn2{
+	position:obsolute;
+	top:50%;
+	bottom: 50%;
+}
+
+/* .edit_details{
+	text-color:red;
+	display:inline-block;
+	margin-right:30px;
+	text-right:
+	
+} */
